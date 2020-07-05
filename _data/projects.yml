@@ -9,7 +9,7 @@
   description: A framework for building GitHub Apps to automate and improve your workflow
 
 # GitHub Classroom
-- project: GitHub Classroom
+- project: GitHub Classroom for learning
   role: Contributor
   duration: 2015 &mdash; Present
   url: "https://github.com/education/classroom"
